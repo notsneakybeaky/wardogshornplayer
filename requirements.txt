@@ -5,3 +5,4 @@ pydub
 tqdm
 rich
 pynput
+audioop-lts
