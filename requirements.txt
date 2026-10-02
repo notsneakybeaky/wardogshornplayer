@@ -1,0 +1,7 @@
+numpy
+scipy
+librosa
+pydub
+tqdm
+rich
+pynput
